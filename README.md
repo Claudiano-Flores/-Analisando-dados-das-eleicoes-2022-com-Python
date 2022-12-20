@@ -1,1 +1,1 @@
-# -Analisando-dados-das-eleicoes-2022-com-Python
+Analisando-dados-das-eleicoes-2022-com-Python
